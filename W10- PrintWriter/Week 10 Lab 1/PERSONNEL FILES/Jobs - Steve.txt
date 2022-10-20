@@ -1,0 +1,8 @@
+========= PERSONNEL FILE =========
+NAME: Steve Jobs
+==================================
+DATE OF BIRTH: February, 1955
+AGE: 65
+==================================
+OCCUPATION: Co-Founder of Apple
+==================================

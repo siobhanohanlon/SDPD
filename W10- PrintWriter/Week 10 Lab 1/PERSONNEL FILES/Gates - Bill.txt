@@ -1,0 +1,8 @@
+========= PERSONNEL FILE =========
+NAME: Bill Gates
+==================================
+DATE OF BIRTH: October, 1955
+AGE: 65
+==================================
+OCCUPATION: Business Magnate
+==================================
