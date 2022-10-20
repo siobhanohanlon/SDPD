@@ -1,0 +1,16 @@
+======================== WAGE SLIP ========================
+NAME: Bernie Sanders
+
+DATE: 01/01/2020
+
+
+===========================================================
+ANNUAL WAGE: 8000.0
+MONTHLY WAGE: 666.6666666666666
+TAX THIS MONTH: 266.6666666666667WAGE AFTER TAX THIS MONTH: 399.99999999999994
+
+===========================================================
+
+
+TOTAL PAID after 12 Month(s): 666.6666666666666TOTAL TAX PAID after 12 Month(s): 266.6666666666667
+TOTAL WAGE AFTER TAX PAID after 12 Month(s): 399.99999999999994

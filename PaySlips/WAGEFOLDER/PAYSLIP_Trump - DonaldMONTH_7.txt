@@ -1,0 +1,16 @@
+======================== WAGE SLIP ========================
+NAME: Donald Trump
+
+DATE: 01/01/2020
+
+
+===========================================================
+ANNUAL WAGE: 15000.0
+MONTHLY WAGE: 1250.0
+TAX THIS MONTH: 500.0WAGE AFTER TAX THIS MONTH: 750.0
+
+===========================================================
+
+
+TOTAL PAID after 7 Month(s): 1250.0TOTAL TAX PAID after 7 Month(s): 500.0
+TOTAL WAGE AFTER TAX PAID after 7 Month(s): 750.0

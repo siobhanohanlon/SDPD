@@ -1,0 +1,16 @@
+======================== WAGE SLIP ========================
+NAME: Hillary Clinton
+
+DATE: 01/01/2020
+
+
+===========================================================
+ANNUAL WAGE: 6000.0
+MONTHLY WAGE: 500.0
+TAX THIS MONTH: 200.0WAGE AFTER TAX THIS MONTH: 300.0
+
+===========================================================
+
+
+TOTAL PAID after 11 Month(s): 500.0TOTAL TAX PAID after 11 Month(s): 200.0
+TOTAL WAGE AFTER TAX PAID after 11 Month(s): 300.0

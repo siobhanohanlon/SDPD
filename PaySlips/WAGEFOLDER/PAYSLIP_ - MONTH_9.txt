@@ -1,0 +1,16 @@
+======================== WAGE SLIP ========================
+NAME:  
+
+DATE: 01/01/2020
+
+
+===========================================================
+ANNUAL WAGE: 5000.0
+MONTHLY WAGE: 416.6666666666667
+TAX THIS MONTH: 166.66666666666669WAGE AFTER TAX THIS MONTH: 250.0
+
+===========================================================
+
+
+TOTAL PAID after 9 Month(s): 416.6666666666667TOTAL TAX PAID after 9 Month(s): 166.66666666666669
+TOTAL WAGE AFTER TAX PAID after 9 Month(s): 250.0

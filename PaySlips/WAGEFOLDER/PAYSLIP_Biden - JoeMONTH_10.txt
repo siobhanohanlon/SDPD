@@ -1,0 +1,16 @@
+======================== WAGE SLIP ========================
+NAME: Joe Biden
+
+DATE: 01/01/2020
+
+
+===========================================================
+ANNUAL WAGE: 10000.0
+MONTHLY WAGE: 833.3333333333334
+TAX THIS MONTH: 333.33333333333337WAGE AFTER TAX THIS MONTH: 500.0
+
+===========================================================
+
+
+TOTAL PAID after 10 Month(s): 833.3333333333334TOTAL TAX PAID after 10 Month(s): 333.33333333333337
+TOTAL WAGE AFTER TAX PAID after 10 Month(s): 500.0
