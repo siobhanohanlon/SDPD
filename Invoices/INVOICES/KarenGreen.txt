@@ -1,0 +1,27 @@
+
+----------------------- THE JAVA HOTEL -----------------------
+---------------------- CUSTOMER INVOICE ----------------------
+
+INVOICE NUMBER: JH-5489
+NAME: Karen Green
+STAY DURATION: 8 Nights
+
+COST: EUR 560.0
+          ------
+
+
+------------------------ Extras ------------------------
+EXTRAS:
+
+NIGHT 1 EXTRA		20.0
+NIGHT 2 EXTRA		0.0
+NIGHT 3 EXTRA		0.0
+NIGHT 4 EXTRA		0.0
+NIGHT 5 EXTRA		30.0
+NIGHT 6 EXTRA		0.0
+NIGHT 7 EXTRA		0.0
+NIGHT 8 EXTRA		10.0
+TOTAL INC. EXTRAS:	1150.75
+
+FINAL TOTAL:		1035.675
+-----------------------------------------------

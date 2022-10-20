@@ -1,0 +1,14 @@
+
+----------------------- THE JAVA HOTEL -----------------------
+---------------------- CUSTOMER INVOICE ----------------------
+
+INVOICE NUMBER: JH-5490
+NAME: Gibby Carly
+STAY DURATION: 6 Nights
+
+COST: EUR 420.0
+          ------
+Less Loyalty Discount: - 157.075
+
+FINAL TOTAL:		1413.675
+-----------------------------------------------

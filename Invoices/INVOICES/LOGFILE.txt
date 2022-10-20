@@ -1,0 +1,13 @@
+LOG FILE RECORD OF INVOICES PROCESSED:
+
+Invoice 1 -Invoice Number JH-5487 - Customer Name: James Gosling - Total Charge: 315.675
+Invoice 2 -Invoice Number JH-5488 - Customer Name: John Smith - Total Charge: 477.675
+Invoice 3 -Invoice Number JH-5489 - Customer Name: Karen Green - Total Charge: 1035.675
+Invoice 4 -Invoice Number JH-5490 - Customer Name: Gibby Carly - Total Charge: 1413.675
+
+TOTAL OF ALL STAYS:	3242.7
+
+RUNNING COSTS:		1621.35
+FIXED COSTS:		250.0
+PROFIT:			1371.35
+

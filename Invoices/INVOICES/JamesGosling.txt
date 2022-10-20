@@ -1,0 +1,24 @@
+
+----------------------- THE JAVA HOTEL -----------------------
+---------------------- CUSTOMER INVOICE ----------------------
+
+INVOICE NUMBER: JH-5487
+NAME: James Gosling
+STAY DURATION: 4 Nights
+
+COST: EUR 280.0
+          ------
+
+
+------------------------ Extras ------------------------
+EXTRAS:
+
+NIGHT 1 EXTRA		35.5
+NIGHT 2 EXTRA		20.0
+NIGHT 3 EXTRA		0.0
+NIGHT 4 EXTRA		15.25
+TOTAL INC. EXTRAS:	350.75
+Less Loyalty Discount: - 35.074999999999996
+
+FINAL TOTAL:		315.675
+-----------------------------------------------

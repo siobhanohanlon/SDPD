@@ -1,0 +1,14 @@
+
+----------------------- THE JAVA HOTEL -----------------------
+---------------------- CUSTOMER INVOICE ----------------------
+
+INVOICE NUMBER: JH-5488
+NAME: John Smith
+STAY DURATION: 2 Nights
+
+COST: EUR 180.0
+          ------
+Less Loyalty Discount: - 53.075
+
+FINAL TOTAL:		477.675
+-----------------------------------------------
